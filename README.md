@@ -1,5 +1,5 @@
 # TwelveRoots
-2D Battle strategy P2P Network Game
+2D Battle strategy P2P-Network Network Game
 
 To be released in December 2020
 

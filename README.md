@@ -7,7 +7,7 @@ Start work from 2019/02
 
 Producing with developers, Artists who are in famous game companies.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0vIXKkRlR2Y" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="912" height="422" src="https://www.youtube.com/embed/0vIXKkRlR2Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Handling QA Problems and Build
 https://cafe.naver.com/projectnbts
